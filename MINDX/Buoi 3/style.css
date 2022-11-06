@@ -1,0 +1,15 @@
+*{
+    background-color: blue;
+}
+input {
+    color: black;
+    padding: 0px;
+    margin: 35px;
+    border: 10;
+    background-color: white;
+    border-radius: 5px;
+    box-shadow: 0 10px 40px white, 0 0 0 20px aqua;
+
+    
+
+}   

@@ -1,0 +1,82 @@
+
+.base {
+    color: orange;
+    margin-left: 150px;
+    text-decoration: underline;
+}
+.main {
+    background-color: midnightblue;
+    margin: 0px 0px 0px 0px
+
+}
+.address {
+    color: white;
+    margin-left: 150px;
+}
+.img {
+    margin-right: 0px;
+}
+
+.navbar {
+box-sizing: border-box;
+ display: inline-block;
+ padding: 0px 810px 0px 0px;
+
+ background: black;
+ position: relative;
+ margin: 0px 0px 0px 0px;  
+}
+a{text-decoration: none}
+.navbar .nav-link {
+    
+    
+    color: white;
+   
+    display: inline-block;
+    padding: 15px 0px 15px 30px;
+}
+
+.navbar .nav-link:hover {
+    color: lightgrey;
+ 
+}
+.login .sign-up {
+    background: black;
+    color: white;
+    margin: 0px 10px 0px 0px;
+    padding: 5px 10px 05px 10px;
+  
+}
+.login .sign-in  {
+    background:black;
+    color: white;
+    margin: 0px 10px 0px 1140px;
+    padding: 5px 10px 05px 10px;
+    
+}
+.login .sign-up:hover {
+   
+    color: lightgray;
+}
+.login .sign-in:hover {
+    color: lightgray;
+}
+ .log-outs {
+    background: black;
+    color: white;
+    margin: 0px 10px 0px 1242px;
+    padding: 5px 10px 05px 10px;
+    
+   
+}
+.log-out .log-outs:hover {
+    
+    color: lightgray;
+}
+
+
+
+  
+  
+
+

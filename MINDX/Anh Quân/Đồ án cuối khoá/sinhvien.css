@@ -1,0 +1,70 @@
+a{text-decoration: none}
+.xemthem {
+    color: white;
+    background: rgb(87, 87, 223);
+    margin: 0px 1230px 0px 10px;
+    
+}
+.xemthem :hover {
+    background: blue;
+}
+.navbar .nav-link {
+    
+    
+    
+    color: white;
+   
+    display: inline-block;
+    padding: 15px 0px 15px 30px;
+}
+
+.navbar .nav-link:hover {
+    color: lightgrey;
+ 
+}
+.navbar {
+    box-sizing: border-box;
+     display: inline-block;
+     padding: 0px 810px 0px 0px;
+    position: fixed;
+     background: black;
+     position: relative;
+     margin: 0px 25px 0px 0px;
+    }
+    .log-outs {
+        background: black;
+        color: white;
+        margin: 0px 10px 0px 1242px;
+        padding: 5px 10px 05px 1000 px;
+    }
+    .log-out .log-outs:hover {
+     color: lightgray;
+    }
+    .xemthem {
+        background:black;
+    }
+    .xemthem:hover {
+        color: lightgray;
+    }
+
+.login .sign-up {
+    background: black;
+    color: white;
+    margin: 0px 10px 0px 0px;
+    padding: 5px 10px 05px 10px;
+  
+}
+.login .sign-in  {
+    background:black;
+    color: white;
+    margin: 0px 10px 0px 1140px;
+    padding: 5px 10px 05px 10px;
+    
+}
+.login .sign-up:hover {
+   
+    color: lightgray;
+}
+.login .sign-in:hover {
+    color: lightgray;
+}
